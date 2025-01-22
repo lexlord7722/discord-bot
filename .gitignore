@@ -3,14 +3,13 @@ venv/
 .env/
 
 # Кэш Python
-__pycache__/
-*.py[cod]
+
 
 # Логи
 *.log
 
 # Конфиденциальные данные
-*.env
+
 *.key
 *.pem
 secret.json
