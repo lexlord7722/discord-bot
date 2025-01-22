@@ -1,0 +1,24 @@
+# Исключение виртуального окружения
+venv/
+.env/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+
+# Логи
+*.log
+
+# Конфиденциальные данные
+*.env
+*.key
+*.pem
+secret.json
+
+# Исключение IDE-конфигурации
+.vscode/
+.idea/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
